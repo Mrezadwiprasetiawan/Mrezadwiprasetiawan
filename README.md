@@ -12,4 +12,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=2&color=11)
+![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=2&color=11)
