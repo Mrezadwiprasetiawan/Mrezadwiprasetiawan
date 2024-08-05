@@ -5,12 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mrezadwiprasetiawan&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrezadwiprasetiawan&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezadwiprasetiawan&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
+___
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mrezadwiprasetiawan&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 ---
 ![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=5&color=4)
