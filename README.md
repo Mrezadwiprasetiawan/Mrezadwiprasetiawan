@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezadwiprasetiawan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrezadwiprasetiawan&theme=solarized-light&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mrezadwiprasetiawan&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=5&color=0)
