@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://github.com/Mrezadwiprasetiawan/Svg-with-script/blob/main/dizzy-emo.svg" width="10%" style="display: inline-block;"/>
-  <img src="https://gist.github.com/Mrezadwiprasetiawan/bf2f880ea7eb5db1e90ac2d4472b4fbf/raw/4f1d69d98a26e2f2cc5ed24fc60aee2de681e1af/Newbie.svg" width="80%" style="display: inline-block;"/>
+  <img src="https://gist.github.com/Mrezadwiprasetiawan/bf2f880ea7eb5db1e90ac2d4472b4fbf/raw/Newbie.svg" width="80%" style="display: inline-block;"/>
 </p>
 ___
 
