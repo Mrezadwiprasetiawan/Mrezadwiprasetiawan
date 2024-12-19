@@ -1,5 +1,7 @@
-<img src="https://gist.githubusercontent.com/Mrezadwiprasetiawan/4ddfc8363391d7914c38275d1e908d69/raw/dizzy-emo.svg"/>
-<img src="https://gist.githubusercontent.com/Mrezadwiprasetiawan/bf2f880ea7eb5db1e90ac2d4472b4fbf/raw/Newbie.svg"/>
+<p align="left">
+<img src="https://gist.githubusercontent.com/Mrezadwiprasetiawan/4ddfc8363391d7914c38275d1e908d69/raw/dizzy-emo.svg" display=inline-block/>
+<img src="https://gist.githubusercontent.com/Mrezadwiprasetiawan/bf2f880ea7eb5db1e90ac2d4472b4fbf/raw/Newbie.svg" display=inline-block/>
+<p/>
 
 
 <picture decoding="async" loading="lazy">
