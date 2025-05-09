@@ -10,7 +10,8 @@
 ---
 
 
-![](https://github-readme-stats-phi-peach-67.vercel.app/api?username=Mrezadwiprasetiawan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![](https://github-readme-stats-phi-peach-67.vercel.app/api?username=mrezadwiprasetiawan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezadwiprasetiawan&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
