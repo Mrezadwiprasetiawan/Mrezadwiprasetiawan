@@ -4,7 +4,6 @@
 <p/>
 
 <details open>
-  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mrezadwiprasetiawan&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
