@@ -1,4 +1,5 @@
 <details close>
+<summary>Click me </summary>
 
 <a href="https://github.com/Mrezadwiprasetiawan?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=luckyboy2790&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 
