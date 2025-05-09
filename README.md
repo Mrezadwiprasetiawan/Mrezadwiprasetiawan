@@ -20,4 +20,4 @@
 
 ![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=5&color=blue)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mrezadwiprasetiawan/count.svg)
