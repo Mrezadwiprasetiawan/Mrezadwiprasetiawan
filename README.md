@@ -1,7 +1,7 @@
 <details close>
 <summary>Click me </summary>
 
-<a href="https://github.com/Mrezadwiprasetiawan?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=mrezadwiprasetiawan&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Mrezadwiprasetiawan's trophy stats"/></a>
+<a href="https://github.com/Mrezadwiprasetiawan?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=mrezadwiprasetiawan&theme=juicyfresh&no-frame=true&column=6&row=1"  width="96%" alt="@Mrezadwiprasetiawan's trophy stats"/></a>
 
 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mrezadwiprasetiawan&hide_border=true&title_color=FF0000&show_icons=true&icon_color=0000FF&ring_color=00FF00&bg_color=000000&text_color=00FF00&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
