@@ -20,6 +20,6 @@
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=5&color=blue)
+![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=0&color=blue)
 
 ![Visitor Count](https://profile-counter.glitch.me/mrezadwiprasetiawan/count.svg)
