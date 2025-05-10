@@ -22,4 +22,3 @@
 
 ![](https://visitcount.itsvg.in/api?id=Mrezadwiprasetiawan&icon=9&color=blue)
 
-![Visitor Count](https://profile-counter.glitch.me/mrezadwiprasetiawan/count.svg)
