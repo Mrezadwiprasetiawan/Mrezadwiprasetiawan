@@ -6,11 +6,11 @@
 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mrezadwiprasetiawan&hide_border=true&title_color=FF0000&show_icons=true&icon_color=0000FF&ring_color=00FF00&bg_color=000000&text_color=00FF00&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
-    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=mrezadwiprasetiawan&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=00FF00&ring=FF0000&border=000000&text_color=00FF00" />
+<img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=mrezadwiprasetiawan&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=00FF00&ring=FF0000&border=000000&text_color=00FF00" />
 
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mrezadwiprasetiawan&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezadwiprasetiawan&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezadwiprasetiawan&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
 
 ---
 
