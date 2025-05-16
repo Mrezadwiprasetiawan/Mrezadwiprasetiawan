@@ -13,7 +13,7 @@
 
 ---
 
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mrezadwiprasetiawan&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=0000FF&line=FF0000&" />
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mrezadwiprasetiawan&theme=high-contrast&hide_border=true&area_color=00FF00&area=true&point=FF0000&line=00FF00&" />
 
 ---
 
