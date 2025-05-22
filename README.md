@@ -5,7 +5,7 @@
 
 ---
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=mrezadwiprasetiawan&hide_border=true&title_color=FF0000&show_icons=true&icon_color=0000FF&ring_color=0000FF&bg_color=000000&text_color=00FF00&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=mrezadwiprasetiawan&hide_border=true&title_color=FF0000&show_icons=true&icon_color=0000FF&ring_color=0000FF&bg_color=000000&text_color=00FF00&rank_icon=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 ---
 
